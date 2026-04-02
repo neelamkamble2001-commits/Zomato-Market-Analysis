@@ -16,6 +16,8 @@ This project is a comprehensive **Business Intelligence Dashboard** built in Tab
 
 ## **📈 Dashboard Preview**
 ![Zomato Dashboard](Zomato%20Market%20Analysis.png)
+Tsbleau Public Dashboard- https://public.tableau.com/views/Zomato_Project_17748934305870/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 ## **🛠️ Tools Used**
 * **Tableau Desktop:** Data Visualization & Dashboard Design
